@@ -75,7 +75,7 @@ const me = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB7C5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ner-roui/)
-[![GitHub](https://img.shields.io/badge/GitHub-ffd6e0?style=for-the-badge&logo=github&logoColor=555)](https://github.com/0x00siza)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ffd6e0?style=for-the-badge&logo=leetcode&logoColor=555)](https://leetcode.com/ner-roui)
 [![Email](https://img.shields.io/badge/Email-ffc8dd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:errouihinisrine6@gmail.com)
 
 </div>
